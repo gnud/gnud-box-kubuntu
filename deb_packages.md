@@ -1,0 +1,87 @@
+# ubuntu packages
+
+- vim
+- xrdp
+- whois
+- virtualenv
+- v4l2loopback-dkms
+- v4l2loopback-utils
+- v4l-utils
+- unrar
+- ttf-mscorefonts-installer
+- tmux
+- tlp
+- qemu-kvm
+- psensor
+- openssh-server
+- lhs2tex
+- jq
+- graphviz
+- git
+- git-gui
+- faketime
+- espeak
+- btrfs-tools
+- docker-ce
+- docker-compose
+- curl
+- ffmpeg
+- p7zip-full
+- ntfs-3g
+
+# dev
+
+- python3-dev
+- libgraphviz-dev
+- build-essential
+- bridge-utils
+- binutils
+- bison
+- autoconf
+- cmake
+- cmake-qt-gui
+- g++
+- gcc
+- make
+- clang
+- linux-tools
+- linux-headers-generic
+
+# ubuntu apps
+
+- filelight
+- glogg
+- meld
+- resp.app
+- lokalize
+- blender
+- gimp
+- inkscape
+- kphotoalbum
+- scribus
+- kruler
+- zenmap
+- NmapSI4
+- filezilla
+- google-chrome-stable
+- gqrx-sdr
+- remote-viewer
+- x11vnc
+- konversation
+- krdc
+- ktorrent
+- audacity
+- mpv
+- obs-studio
+- pavucontrol-qt
+- simplescreenrecorder
+- vlc
+- calibre
+- virt-manager
+- sqlitebrowser
+- latte-dock
+- asbru-cm
+- kfind
+- stacer
+- wireshark-qt
+- virtualbox
