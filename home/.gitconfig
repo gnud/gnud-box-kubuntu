@@ -1,0 +1,7 @@
+[core]
+        autocrlf = input
+        # Replace USERNAME with your user
+        excludesfile = /home/{USERNAME}/.gitignore
+[user]
+        name = Damjan Dimitrioski
+        email = damjandimitrioski@gmail.com
