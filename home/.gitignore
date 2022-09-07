@@ -1,0 +1,23 @@
+
+.env
+
+# If you like to infest your IDE in your team and bring chaos, remove following
+.idea/**
+.vscode/**
+
+# Windows thumbnail cache files
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# GNU/Linux
+# KDE
+.directory
+
+# GNOME ??? @TODO
