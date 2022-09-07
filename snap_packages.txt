@@ -1,0 +1,17 @@
+pycharm
+boxy-svg
+peek
+slack
+chromium
+viber
+zoom-client
+skype
+kdenlive
+lbry
+postman
+dukto
+snowflake
+firecamp
+ngrok
+redis-desktop-manager
+youtube-dl
